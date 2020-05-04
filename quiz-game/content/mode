@@ -1,0 +1,14 @@
+	              Modos de Jogo
+
+O quiz possui os modos singleplayer e multiplayer de ate 
+5 jogadores, onde o número de questoes possiveis e conse
+quencia da quantidade de jogadores, sendo as possibilida
+des de:
+
+-1 Jogador:    15 questoes;
+-2 Jogadores:   7 questoes p/cada;
+-3 Jogadores:   5 questoes p/cada;
+-5/4 Jogadores: 4 questoes p/cada;
+
+[V]Voltar
+Comando: 

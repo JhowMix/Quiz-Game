@@ -1,0 +1,38 @@
+{ "question": [
+    "Qual tipo de Cabo geralmente usa o conector 8P8C(RJ@45)?",
+    "Por qual meio físico sao transmitidos os sinais em cabos @de Fibra Otica?",
+    "Quantos outlets devem existir em uma workarea com 28.95m^2?",
+    "Qual dispositivo opera na camada de rede e sua principal @funcao é selecionar o caminho mais apropriado entre as redes @e repassar os pacotes recebidos?",
+    "Um HUB tambem pode ser chamado de ___________.",
+    "O que significa NAP?",
+    "Qual e a definicao correta de Latencia?",
+    "Qual a definicao mais adequada para o termo Gerenciamento@de Redes?",
+    "Indique o significado da sigla IP:",
+    "Qual ciencia tem como objetivo escrever mensagens em codi@gos?",
+    "Indique o nome do ataque de negacao de servico que ocorre@quando um conjunto de computadores tenta tirar de operacao o @servico de outros computadores, redes ou programas:",
+    "Qual a categoria de software que monitora atividades de um@sistema e envia as informacoes coletadas para terceiros sem au@torizacao?",
+    "Quais os componentes da arquitetura cliente/servidor de 3@camadas?",
+    "Qual equipamento e responsavel por armazenar, recuperar e @enviar ou 'servir' arquivos e dados para outros computadores@em sua rede?",
+    "Qual dos itens abaixo é um SGBD?"
+  ],
+ "choice": [
+   "[A]Cabo Co-axial@[B]Fibra Otica@[C]Cabo Triplo Trançado@[D]Cabo de Par Trancado",
+   "[A]Luz@[B]Agua@[C]Corrente Eletrica@[D]Ar",
+   "[A]2@[B]3@[C]8@[D]6",
+   "[A]Modem@[B]Red Card@[C]Roteador@[D]DECnet",
+   "[A]Concentrador@[B]UTP@[C]Roteador@[D]Modem",  
+   "[A]Network Acess Point@[B]National Acess Point@[C]Network Area Purple@[D]Network Area Patch",
+   "[A]A medida do atraso do envio e recebimento de dados de@uma extremidade de uma rede, de um link, ou de um dispo_@sitivo a outra.@[B]A medida de potencia de sinal ao enviar ou receber da@dos de um link.@[C]Taxa de interferencia no sinal transmitido dentro de um fio. @@[D]Quantidade de dados enviados em um determinado período de tempo.",
+   "[A]Ato conseguir conseguir coisas atravéz de pessoas, pe@la gestão@[B]Administracao e controle de sites na internet@[C]Atividade que monitora e controla os elementos da re_@de(fisicos ou logicos), assegurando um certo nível de qu@alidade de servico.@[D]Ato de monitorar e controlar somente passivos da rede@, assegurando a manutencao do servico.",
+   "[A]Internet Postulada@[B]International POP@[C]InterPol@[D]Internet Protocol",
+   "[A]Fisica@[B]Tautologia@[C]Criptografia@[D]Cosmologia",
+   "[A]DDos@[B]PSA@[C]Brutal Force@[D]SSL",
+   "[A]Spyware@[B]Spammer@[C]Rootkit@[D]Phishing",
+   "[A]Server de Aplicacao, Server de Banco de Dados e Cliente@[B]Server de Host, Server de Banco de Dados e Cliente@[C]Server de Aplicacao, Server de Banco de Dados e Mainframe@[D]Mainframe, Server de Banco de Dados e Terminal Burro",
+   "[A]Mainframe@[B]Servidor@[C]Cliente@[D]Switch",
+   "[A]SAN@[B]Microsoft Office@[C]C++@[D]Oracle"
+ ],
+ "answer":[
+    "D", "A", "B", "C", "A", "A", "A", "C", "D", "C", "A", "A", "A", "B", "D"
+ ]
+}
